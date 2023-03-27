@@ -18,6 +18,7 @@ function App() {
             </div>
             <div className="input">
               <label htmlFor="test"></label>
+              <img src={logo} alt="logo" style={{ height: "2rem" }} />
               <input id="test" type="text" placeholder="input react" />
             </div>
           </div>
