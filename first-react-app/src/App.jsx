@@ -33,6 +33,7 @@ function App() {
             description="is now"
             bgColor="green"
             titleBtn="Aggiungi"
+            btnName="save"
           />
 
           <Card
@@ -41,62 +42,81 @@ function App() {
             bgColor="red"
             titleBtn="Aggiungi"
             textColor="white"
+            btnName="save"
           />
+
           <Card
             title="React"
             description="is now"
             bgColor="blue"
             titleBtn="Aggiungi"
             textColor="white"
+            btnName="save"
           />
+
           <Card
             title="React"
             description="is now"
             bgColor="white"
             titleBtn="Aggiungi"
+            btnName="save"
           />
+
           <Card
             title="React"
             description="is now"
             bgColor="yellow"
             titleBtn="Aggiungi"
+            btnName="save"
           />
+
           <Card
             title="React"
             description="is now"
             bgColor="purple"
             titleBtn="Aggiungi"
+            btnName="save"
           />
+
           <Card
             title="React"
             description="is now"
             bgColor="brown"
             titleBtn="Aggiungi"
+            btnName="save"
           />
+
           <Card
             title="React"
             description="is now"
             bgColor="orange"
             titleBtn="Aggiungi"
+            btnName="save"
           />
+
           <Card
             title="React"
             description="is now"
             bgColor="gray"
             titleBtn="Aggiungi"
+            btnName="save"
           />
+
           <Card
             title="React"
             description="is now"
             bgColor="violet"
             titleBtn="Aggiungi"
             textColor="white"
+            btnName="save"
           />
+
           <Card
             title="React"
             description="is now"
             bgColor="green"
             titleBtn="Aggiungi"
+            btnName="save"
           />
         </div>
       </main>
