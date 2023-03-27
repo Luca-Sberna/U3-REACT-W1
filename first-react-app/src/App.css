@@ -48,6 +48,7 @@
 .input {
   display: flex;
   align-items: center;
+  padding-right: 1.5rem;
 }
 
 #test {
@@ -81,11 +82,12 @@ header label {
   padding-top: 3rem;
 }
 
-header h2 {
-  padding-top: 3rem;
-}
 
-header input {}
+
+main {
+  background: rgb(40, 44, 52);
+  background: linear-gradient(180deg, rgba(40, 44, 52, 1) 0%, rgba(235, 235, 235, 0.9955257270693513) 8%);
+}
 
 main .container {
   width: 100%;
