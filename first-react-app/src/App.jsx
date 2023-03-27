@@ -11,21 +11,16 @@ function App() {
     <>
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-          <ClassComponents content=" Luca" />
-          <label htmlFor="test">input react</label>
-          <input id="test" type="text" />
+          <div className="cont-logo">
+            <div className="logo-welcome">
+              <img src={logo} className="App-logo" alt="logo" />
+              <ClassComponents content=" Luca" />
+            </div>
+            <div className="input">
+              <label htmlFor="test"></label>
+              <input id="test" type="text" placeholder="input react" />
+            </div>
+          </div>
           <MyComponent />
         </header>
       </div>
